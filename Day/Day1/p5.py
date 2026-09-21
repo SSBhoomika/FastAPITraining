@@ -1,4 +1,4 @@
-# concept:decorator is a python feature that lete you modify a function usimg @ symbol
+# concept:decorator is a python feature that lete you modify a function usimg @ s
 
 def my_decorator(func):
     def wrapper():
